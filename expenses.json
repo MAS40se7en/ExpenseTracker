@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-19",
+    "description": "exp",
+    "amount": "10"
+  },
+  {
+    "id": 3,
+    "date": "2026-10-19",
+    "description": "exp3",
+    "amount": 120
+  }
+]
