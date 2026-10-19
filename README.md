@@ -84,3 +84,6 @@ Each expense in `expenses.json` has:
 
 ## PROJECT URL
 https://roadmap.sh/projects/expense-tracker
+
+## Roadmap PROJECT SUBMISSION
+https://roadmap.sh/projects/expense-tracker/solutions?u=6ad52f26ef9e0ef6b527de0c
